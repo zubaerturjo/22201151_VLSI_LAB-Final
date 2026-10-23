@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/ise/22201151_VLSI_LAB-Final/CPU_SET1/acc_z_tb_isim_beh.exe" -prj "/home/ise/22201151_VLSI_LAB-Final/CPU_SET1/acc_z_tb_beh.prj" "work.acc_z_tb" 

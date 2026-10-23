@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/22201151_VLSI_LAB-Final/CPU_SET1/ACC_Z.xst" -ofn "/home/ise/22201151_VLSI_LAB-Final/CPU_SET1/ACC_Z.syr" 

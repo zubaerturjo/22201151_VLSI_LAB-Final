@@ -1,0 +1,2 @@
+ISim log file
+Running: /home/ise/22201151_VLSI_LAB-Final/CPU_SET1/acc_z_tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb /home/ise/22201151_VLSI_LAB-Final/CPU_SET1/acc_z_tb_isim_beh.wdb 
